@@ -1,3 +1,3 @@
 # GCCT
 Testing
-A repo for polkadot based chains
+A repo for ethereum based chains
